@@ -16,6 +16,9 @@ with open('{}/{}'.format(DIRECTORY, file_name)) as f:
     
 speaker = choice(list(statement.keys()))
 phrase = choice(statement[speaker])
-text = '{}: {}'.format(speaker, phrase)
+if speaker == "NOISE":
+    text = phrase
+else:
+    text = '{}: {}'.format(speaker, phrase)
 
 print(text)

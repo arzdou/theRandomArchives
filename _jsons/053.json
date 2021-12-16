@@ -1,0 +1,48 @@
+{
+ "GERTRUDE": [
+  "Are you quite recovered?",
+  "Sergeant Walter Heller recording, regarding a discovery made near Alexandria during Operation Crusader in November of 1941. Recording date 5th of September, 1997.",
+  "Anytime you're ready.",
+  "Well, you say you were serving in North Africa when it happened?",
+  "I see. Did you ever locate that basement again?",
+  "Did you tell any of your superiors about it?",
+  "And did you replace the grate?",
+  "The bronze grate over the entrance to the archive. Did you replace it when you fled?",
+  "One other thing. That feeling of being watched. Have you ever had it since?",
+  "Thank you, Walter. Now, I --I need to check some maps with you, but I don't think we need that on tape. Are you all right here for now?",
+  "It's unlikely to happen, but if anyone else comes down here--",
+  "Thank you. This statement is off the record and I don't want anyone to bother you about it further. Let's keep it between us.",
+  "Well, that was certainly useful.",
+  "It's taken a long time to track down someone still living who found the Serapeum of Alexandria. It's not a full confirmation of my theory about ancient iterations of the archive, but I'm certainly feeling validated for pursuing it."
+ ],
+ "WALTER": [
+  "Yes, I, I think so. Well enough to tell my story, at least.",
+  "Right. Where do you want me to start?",
+  "It wasn't broken again, which was a relief, but I still had to sit there for a while recovering from my fall. And nobody seemed to have noticed what had happened, or at least they didn't care, and I took a few moments to look exactly where I was.",
+  "Well, I wanted to, but I was supervised the rest of my time in Alexandria.",
+  "No. I was half convinced I'd dreamt the whole thing up.",
+  "[stammering] The what?",
+  "Oh yeah, yes -- yes, I think I did.",
+  "Well, I wasn't sure when to say anything, but yes. I have just now. That funny turn I took on the way down the stairs, I felt it again. All those eyes watching me.",
+  "I should be.",
+  "I'll tell them I'm an old friend of yours paying you a visit."
+ ],
+ "ARCHIVIST": [
+  "Well, only two tapes so far and already I... I don't know what to think.",
+  "Another archive, an earlier version. Am I just part of a chain? A long, unending string of people who call themselves \"the archivist\" stretching back to...",
+  "Are we all destined to end up like Gertrude, just following the same path? I need to find out more about her. One thing's becoming clear, though. She did not trust the Magnus Institute. Something that I can certainly sympathize--",
+  "Er, that depends. Are you are you going to keep hovering around me if I go to the canteen?",
+  "Fine. I'll come with. Just give me a second to grab my coat.",
+  "Gertrude Robinson is not who I thought she was."
+ ],
+ "MARTIN": [
+  "Was just going down to the cafe, did you want a sandwich?",
+  "I just worry. You needed five stitches after you \"accidentally\" stabbed yourself with the bread knife. If you're still claiming that's what happened--",
+  "-- then you'll forgive me for worrying when you use sharp knives."
+ ],
+ "NOISE": [
+  "[CLICK]",
+  "[DOOR OPENS]",
+  "[DOOR CLOSES]"
+ ]
+}

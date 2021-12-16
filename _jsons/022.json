@@ -1,0 +1,31 @@
+{
+ "ARCHIVIST": [
+  "Martin, are you sure about this?",
+  "No, what we do is research statements. Usually those made by liars and the mentally unwell.",
+  "That is beside the point.",
+  "Fine. You're right. I suppose. Statement of Martin Blackwood, archival assistant at the Magnus Institute, London, regarding...",
+  "Recorded direct from subject, 12th March, 2016.",
+  "Please stick to the statement, Martin.",
+  "You're sure about all of this, Martin?",
+  "You say you lost your phone two weeks ago?",
+  "I just received another text message. From you. \"Keep him. We have had our fun. He will want to see it when the Archivist's crimson fate arrives.\"",
+  "It means I ask Elias to hire some extra security. I should probably warn Sasha and Tim as well. I'll also have a look through the Archives, as I believe we should have a statement from Ms. Prentiss herself in here somewhere."
+ ],
+ "MARTIN": [
+  "I just want to make a statement about what happened to me. I mean, it... it's what we do.",
+  "Well, I need to tell someone what happened, and you can vouch for the soundness of my mind, can't you?",
+  "If you're that worried about it, it doesn't need to be an official statement. I just need a record of it.",
+  "A close encounter with something I believe to have once been Jane... Prentiss.",
+  "It wasn't a lot, really. Still, about as much as I might have expected, so I headed back to the Institute and updated you on what I'd found. And, well, as I'm sure you're aware that was the last time I saw you before I disappeared.",
+  "If I ever see another can of peaches... [shudders]",
+  "Look, I'm not going to lie to you about something like this, John. I... like my job. Most of the time.",
+  "[Confused & flustered] Okay... thanks. To be honest I didn't, didn't expect you... to take it seriously.",
+  "Thereabouts. When I went back to the basement.",
+  "What does that mean?"
+ ],
+ "NOISE": [
+  "[CLICK]",
+  "[PHONE BUZZES]",
+  "[CLICK]"
+ ]
+}

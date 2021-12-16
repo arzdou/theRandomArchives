@@ -1,0 +1,71 @@
+{
+ "ARCHIVIST": [
+  "You were the one that suggested we go by boat.",
+  "Hmm. Hold on.",
+  "Do you know when we're scheduled to arrive?",
+  "He says another two days.",
+  "The tape recorder.",
+  "N-No... No, I-I don't think that's it.",
+  "No, I... I think...",
+  "[Calling out] Excuse me?",
+  "You used to work for Salesa.",
+  "Mikaele Salesa. You used to work on his ship.",
+  "[Archly] But I know you.",
+  "Floyd Matharu. Served on the *Dorian* from 2011 to 2014. With Salesa.",
+  "Tell me what happened.",
+  "Whenever you're ready.",
+  "[Soothingly] You can go.",
+  "Thank you Floyd. You've been... very helpful.",
+  "It's alright, Floyd. You just... need a break.",
+  "He had information about Salesa. I thought it would help.",
+  "I wasn't sure. Just had a hunch there was something here.",
+  "He didn't exactly seem inclined to volunteer the information. Besides, you said I needed to be ready for Ny-Alesund. \"Full power\" I believe were your words. The statement helped.",
+  "Yes, Basira, he is. And I am sorry about that. But we needed it.",
+  "Anyway you're the one who wants to be like Gertrude. You think she'd give a damn about a few bad dreams?",
+  "No. She got the job done, and didn't care about the cost.",
+  "I had to know, Basira.",
+  "You could have stopped me.",
+  "But you wanted to know as well, didn't you?.",
+  "Get some rest. Two days yet."
+ ],
+ "BASIRA": [
+  "[Nauseously] Not really.",
+  "Didn't think I, urgh... [sniffs] I haven't really done proper boats before.",
+  "Yeah, I heard. Thanks.",
+  "Get ready. Any idea what's coming?",
+  "It's not recording for nothing.",
+  "John, I'm not sure about this.",
+  "What the hell was that?",
+  "Is that why you were so keen on *this* ship?",
+  "And what, you thought the best way to find it was by... slurping it out of his brain?",
+  "And now he's going to see you in his dreams as he relives that for the rest of his life. Because...",
+  "because a tape recorder told you to do it?",
+  "But I thought you did.",
+  "It wasn't right."
+ ],
+ "SHIPHAND": [
+  "Captain reckons two days.",
+  "What? You\u2014 -Who did?",
+  "I don't know what you're talking about.",
+  "I don't know you."
+ ],
+ "FLOYD": [
+  "Wh-What is this?",
+  "Way the others talked about it, he'd been at this for a long time, decades at least, and when I sailed with him it was clear he knew exactly what he was doing. He was the only one ever allowed in the cargo bay during a voyage.",
+  "This time, though... felt different. He was distant, quiet. His words, when he spoke to you at all, were blurred with alcohol and regret. Nobody knew what the plan was, so we just kept going.",
+  "When it had finally subsided, and I could bring myself to look back, the island was gone and ocean was still.",
+  "[Dazed] What... what...?",
+  "Erm... I, I don't..."
+ ],
+ "NOISE": [
+  "[CLICK]",
+  "[ECHOES OF A SHIP'S HOLD]",
+  "[OCEAN GOING SOUNDS ARE CLEARLY AUDIBLE THROUGHOUT]",
+  "[FOOTSTEPS RING ON METAL]",
+  "[FOOTSTEPS RING ON METAL]",
+  "[SUDDEN INHALATION FROM BASIRA]",
+  "[FOOTSTEPS APPROACH]",
+  "[RINGING FOOTSTEPS DEPART]",
+  "[CLICK]"
+ ]
+}

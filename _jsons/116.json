@@ -1,0 +1,103 @@
+{
+ "ELIAS": [
+  "Thank you all for coming.",
+  "Will Melanie not be joining us?",
+  "Very well. I suppose that's understand --",
+  "To help. Do you have your recorder running?",
+  "Well, then, I'll speak clearly. You will soon be attempting to stop something few have ever witnessed and fewer still have survived.",
+  "Yes. And I believe your plan -- um, simplistic as it may be -- does have a reasonable chance of working.",
+  "Well, quite. But given there is every likelihood but some or all of you might end up confronting the Stranger in a rather direct manner, I thought it best you have an idea of what you might encounter.",
+  "During the difficulties with your initial absence, John, I took Gertrude's tapes into my safekeeping.",
+  "There is one I feel it may be wise for you to hear. All of you. If I may?",
+  "It's unlikely to be identical. The Stranger is not known for its, um, consistency.",
+  "The familiar may seem strange, the strange, familiar.",
+  "Brilliant. I have been doing my best to prepare you, John, to see. You should hopefully have it a bit easier than the others.",
+  "More... an aspect of your becoming.",
+  "Uh... right. Regardless, it should, I hope, give you an edge. Otherwise, I would never suggest you go yourself.",
+  "Quite right. Probably best he does stay behind.",
+  "I'm sure that won't be necessary --",
+  "Glad that sorted! Now, unless there's anything else?",
+  "Excellent. Well, it's a three-hour trip up to Great Yarmouth. I had Rosie book you all into a bed-and-breakfast near the museum.",
+  "Oh, and, uh, John. Technically, I can't *stop* you, but I would heavily advise against bringing any... rogue elements.",
+  "Hm. Anyway, don't worry about staying in contact, I'll know when it starts.",
+  "Oh, that reminds me. Make sure you keep any receipts for expenses, assuming you wish to claim them back.",
+  "Yes. If you die, I'm afraid you probably won't be able to claim your expenses. Now, if you'll excuse me?"
+ ],
+ "ARCHIVIST": [
+  "Well, you said it was important.",
+  "What do you want?",
+  "Well, thank you.",
+  "Detonate them when the ritual starts; they're vulnerable.",
+  "Yes, I thought as much.",
+  "One long category error.",
+  "No one said it was going to be easy.",
+  "[sigh] Another of my \"powers?\"",
+  "[sigh] What about Martin?",
+  "He should stay behind.",
+  "Too many people might attract attention",
+  "Martin, just... you can do more good here.",
+  "Melanie's not coming either. I think... I think she'll need you here.",
+  "Not if, uh... no.",
+  "I will take it under advisement.",
+  "And assuming we don't, you know, die.",
+  "I doubt there'll be time, we need to go.",
+  "So. He doesn't want you there.",
+  "I... would rather have you where I can see you.",
+  "You listen to the tape?",
+  "Do I need to be worried about you?",
+  "I'm watching your face. Do you -- are you going to keep it together?",
+  "Okay. I'm just... [sigh] Okay."
+ ],
+ "BASIRA": [
+  "No. She won't.",
+  "We're, um, I think we're all going.",
+  "I mean. I've got some plans of the museum, and the area around it, but, yeah. That's. That's it.",
+  "That's it, then?",
+  "...but something *like* that? We can't trust what we see.",
+  "What, so you have a backup if John doesn't make it?",
+  "Do you think he bought it?"
+ ],
+ "DAISY": [
+  "'course he does.",
+  "It should work. It doesn't need to be fancy.",
+  "You don't say."
+ ],
+ "MARTIN": [
+  "Sorry, sorry, did we... I thought we'd only actually got as far as, well, we sneak in, plant bombs, when they're... distracted?",
+  "Well, isn't -- I thought that was what the Stranger *wants*, you know, for us to *doubt* everything.",
+  "What about me?!",
+  "No, no! I can help! I've been reading the *statements!*",
+  "[unhappy noises, overlapping] Hey! Wh-what, what!? No!",
+  "What, sat around drinking tea until the world ends?! Or, you know, it doesn't. We hope.",
+  "You *can* just say \"Tim.\"",
+  "We'll talk about it later.",
+  "It's *fine.* We've got this, okay?"
+ ],
+ "GERTRUDE": [
+  "Case 7870211. Abraham Janssen. Incident occurred in the Court Theatre Buda, October 1787. Statement taken from journal entry, dated the 2nd of November of that year. Committed to tape on the 4th of October, 2013. Gertrude Robinson recording.",
+  "At least, not when it was first constructed.",
+  "I must not, however, allow my regard for Wolfgang's intellect to distort the most appalling horror that his creations precipitated upon that stage. Nor to hide his complicity and guilt in what occurred.",
+  "Perhaps I would have had more reservations, had I known the unveiling would take place before the Empress Maria Theresa. Or if, when I agreed, I had actually laid my eyes upon the Mechanical Turk.",
+  "A prayer that went unanswered.",
+  "And then there came a noise I did know. Into the nothing that was everything came a thing that was most clearly a battle cry, though I did not understand the words of it, only the sense.",
+  "All I can say for sure is that when the Unknowing begins, I certainly don't want to be inside it."
+ ],
+ "TIM": [
+  "Yep. Sounds like fun.",
+  "You reading my mind again, boss?",
+  "Look. If you're worried I'm gonna go all... red rum and start hacking up random waxworks, don't be. I'm not gonna give us away. I want this to work.",
+  "But I don't think it will. So I'm gonna take that axe of yours, and *when* it all goes wrong, I'm going down swinging. And when I do, you'd better take the chance and stay out of my way."
+ ],
+ "NOISE": [
+  "[CLICK]",
+  "[VARIOUS SIGHS AND EXASPERATED NOISES]",
+  "[VARIOUS SIGHS AND EXASPERATED NOISES; SOMEONE MUTTERS \"FINE\"]",
+  "[CLICK]",
+  "[CLICK] [CLICK]",
+  "[DOOR OPENS AND CLOSES]",
+  "[TIRED SIGHS]",
+  "[CLICK]",
+  "[CLICK]",
+  "[CLICK]"
+ ]
+}

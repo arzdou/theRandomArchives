@@ -1,0 +1,47 @@
+{
+ "ELIAS": [
+  "Not quite. I heard you'd had some absences. Some unauthorised leave. I just wanted to talk it through with you.",
+  "Were you sick? If you're sick you really need to call in.",
+  "Well, you hadn't booked any leave.",
+  "So, what happened?",
+  "I see. You were trying to leave us?",
+  "But you've returned?",
+  "No. I don't think that'll be necessary.",
+  "But let's be sure it doesn't happen again, hm?",
+  "[Sigh] Tim, this place is very old. It has all sorts of... idiosyncrasies and not all of them are good for the people who work here.",
+  "I've always found the best way to deal with it is to lose yourself in work. Personally, the comfortable rigour of bureaucracy has always helped me. Perhaps doing a bit of mindless filing will help distract you.",
+  "I'm sure I am. And no more unauthorised absence, okay?",
+  "Yes, Martin, very much so."
+ ],
+ "TIM": [
+  "Hey, boss. What brings you down to the dungeons? Your office just too full of joy?",
+  "Nope. Wasn't sick. Try again.",
+  "No, I had not.",
+  "I hopped a flight to Malaysia. Found myself a hotel.",
+  "I... I got sick. The longer I was gone... I felt weak, like, like I was losing myself. You gonna fire me boss?",
+  "Of course not.",
+  "You do *know,* right? I mean, you must know.",
+  "About this place. About what it does to us.",
+  "I think I'd prefer asbestos.",
+  "Yeah. I mean... maybe you're right.",
+  "Yeah. It's already running."
+ ],
+ "MARTIN": [
+  "Oh, er, is everything okay in here?",
+  "Right. Um, I was actually gonna to record a statement, if, if that's alright Tim?",
+  "Oh. Oh, so it is. Why, why did you tur-",
+  "Martin Blackwood, Archival Assistant at the Magnus Institute, recording statement number 0130807, statement of Ross Davenport, given August 7th 2013.",
+  "The lockers were absolutely *enormous.* They came right up to the ceiling, which was easily twelve foot from the floor, and must have been a good two or three feet wide. Each had what looked to be a unique lock, and only a few of them had keys in.",
+  "There was one other advantage to knowing Marie was around -- it helped me ignore the sounds from the locker room. The occasional thumps and creaks. I could just write it off as her being a bit clumsy. Even when I hadn't seen her come in.",
+  "J was there, standing his full height. A distended, jagged body bared in all its twisted grandeur, and he shook his head in frustration. He said something, I think, but I couldn't make it out. It might have been \"too soon\".",
+  "I never went back. I called Marie and told her what happened, but she didn't believe me. At least, I hope she didn't. Because if she did, then some of the questions she asked make very worried for her indeed.",
+  "There. Well, that's, er... That's it."
+ ],
+ "NOISE": [
+  "[CLICK]",
+  "[DOOR OPENS]",
+  "[DEPARTING FOOTSTEPS]",
+  "[DOOR CLOSES]",
+  "[CLICK]"
+ ]
+}

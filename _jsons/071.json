@@ -1,0 +1,24 @@
+{
+ "KAROLINA": [
+  "I must have done.",
+  "Of course. I live in London.",
+  "Is there anything else? I've told you what happened, so I'm done here, correct?",
+  "Don't bother. I'm done with it. Thank you for your time."
+ ],
+ "ARCHIVIST": [
+  "One second. Statement of Karolina G\u00f3rka, regarding a brief period trapped on the London Underground. Statement taken direct from subject 25th January, 2017.",
+  "Well, that certainly sounds like an... unpleasant experience. I'm not sure I understand, though. Did you fall asleep, somehow, or...",
+  "That's... that's impressive. Do you still take the Tube?",
+  "Right. I, uh...",
+  "I suppose so, yes. We'll look into it, and if we find anything we'll let you know.",
+  "I should probably mention this to Sasha. I believe she takes the Victoria line to work and has a tendency to stay later than she should. Aside from that, all that's left to do is sweep up after Ms. G\u00f3rka. She left the place rather dusty."
+ ],
+ "NOISE": [
+  "[CLICK]",
+  "[CLICK]",
+  "[CLICK]",
+  "[CLICK]",
+  "[CLICK]",
+  "[CLICK]"
+ ]
+}

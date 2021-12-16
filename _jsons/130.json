@@ -1,0 +1,47 @@
+{
+ "GERTRUDE": [
+  "Do you mind?",
+  "Well, there's nothing wrong with *tape.* A bit old-fashioned, but I suppose  so am I.",
+  "Are you quite ready?",
+  "If that's your primary goal, my dear, I would suggest you speak to a qualified counselor. We can suggest one, if you like.",
+  "That said, I do believe most people find the process of giving a statement to be rather... mm, cathartic. And whatever nightmares your experiences left you with, I'm sure they won't be bothering you much longer.",
+  "Let's start with your name.",
+  "And what is your statement regarding?",
+  "Gertrude Robinson recording. December 19th, 2008. In your own time.",
+  "And... Do you feel any better?",
+  "Well that's a shame. Hang on, let me see if I can find you the number for that counseling service. They're, They're actually quite good.",
+  "At least we know for sure that these grand rituals can be disrupted by conventional means, though a more... nuanced approach will be needed for some of them, I'm sure."
+ ],
+ "LUCIA": [
+  "What? Oh -- no.",
+  "Why tape recorder? Why not digital?",
+  "Right. ..Yes, tha-that's fine. It's all fine.",
+  "Ah -- Um -... Will it help?",
+  "Telling my story. Do you... will-will it help with the nightmares?",
+  "Okay, then.  So. What do I do?",
+  "Oh.  Uh -- Lucia. Lucia Wright.",
+  "Just um... a hole. A hole filled with, uh... with meat.",
+  "I walked, slowly, but deliberately over to him, hands out to my side, doing my best to show him I wasn't a threat. I made the decision that-whatever was happening, my best chance to make it out was just -- keep doing as I was asked.",
+  "When the explosion came, it was a blessed relief. A deep rumble passed through the structure of the building, a deafening cry of rage and dismay that came from below, as the roof collapsed downwards, burying it under a torrent of rubble and stone.",
+  "They, um, haven't told me what they found down there. They paid for my flight home, but haven't told me anything. I don't know anything. I, I just want to sleep.  That's it. That's all I have. That's what happened.",
+  "If you say so."
+ ],
+ "ARCHIVIST": [
+  "I found this tape tucked in a corner of my desk drawer  covered in cobwebs. I suppose subtlety has gone out the window a bit, and the question is now simply... how much I trust the Spider to have my best interests at heart.",
+  "About -- About an anchor. What was it she said, \"the siren call of flesh.\" Hm. It's possible, I suppose. It would -- *hurt*, but -- well, what's another scar?",
+  "It's been two weeks since I heard from Basira. I'm not waiting any longer. I'm getting Daisy back."
+ ],
+ "NOISE": [
+  "[INT. MAGNUS INSTITUTE, ARCHIVES, GERTRUDE'S OFFICE]",
+  "[TAPE CLICKS ON.]",
+  "[Sound of a metal chair being pulled out, the legs dragging against the floor.]",
+  "[As she speaks, she moves, and we hear the rustling of her clothes and a couple of footsteps.]",
+  "[TAPE CLICKS OFF.]",
+  "[INT. MAGNUS INSTITUTE, ARCHIVES, GERTRUDE'S OFFICE, LATER]",
+  "[TAPE CLICKS ON.]",
+  "[TAPE CLICKS OFF.]",
+  "[INT. MAGNUS INSTITUTE, ARCHIVES, JOHN'S OFFICE]",
+  "[TAPE CLICKS ON.]",
+  "[TAPE CLICKS OFF.]"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ARCHIVIST": [
+  "My dearest Jonah,",
+  "Martin! Good lord man, if you're going to be staying in the Archives, at least have the decency to put some trousers on!",
+  "I've been coming in early in the hopes of leaving this place before dark.",
+  "I have no idea, but I don't intend to take any chances.",
+  "Now, if you'll excuse me.",
+  "Yours in trust,"
+ ],
+ "MARTIN": [
+  "Oh god, sorry, sorry! I didn't think you were in until later; it's not even seven yet.",
+  "It's been a week and we've seen nothing. Do you really think she's still out there?",
+  "[SIGH] No, I suppose not..."
+ ],
+ "NOISE": [
+  "[CLICK]",
+  "[CLICK]"
+ ]
+}

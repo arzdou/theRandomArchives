@@ -1,0 +1,36 @@
+{
+ "ARCHIVIST": [
+  "I'm rambling. Disregard this first page, I'll start again.",
+  "I stood there, torn between wanting to flee and needing to know. Then in the silence, I heard it. Tap, tap, tap. Someone banging rhythmically on a window. I scanned all the ones I could see, but they were dark.",
+  "Tap, tap, tap.",
+  "I got in my car, and I left them to their work. I didn't turn around even when I saw the smoke start to rise behind me. And that was the last time I went there. Now, if you'll excuse me, I need to go wash my hands.",
+  "Oh, er, yes?",
+  "Yes... Yes, I'm just about finished here, what is it?",
+  "Delivery? What delivery?",
+  "No, he... Oh, yes, actually. I completely forgot. He said he put it in my desk drawer, hold on.",
+  "A lighter. An old Zippo.",
+  "No. And I don't allow ignition sources in my archive!",
+  "Not really. Just a sort of spider web design on the front. Doesn't mean anything to me. You?",
+  "Well... show it to the others, see what they think. You said there was something else as well?",
+  "Tim... Tim, it doesn't have a hole in it, does it? About six inches square?",
+  "Hypnotic, yes. Do you know who made the delivery? Did they sign in?",
+  "I need to talk to Martin. Uh, end recording."
+ ],
+ "TIM": [
+  "Are you free?",
+  "Oh, ah, nothing urgent, um, it's just Elias was asking a couple questions about the delivery.",
+  "Ah well, that's actually what he was asking, huh! Um, apparently Martin, uh, took delivery of a couple of items last week addressed to you. Did he not mention it?",
+  "Er, what is it?",
+  "Okay. Is there anything unusual about it?",
+  "Ah no. No.",
+  "Oh, ah yes, yeah, it was sent straight to the Artefact Storage, a table of some sort. Ah, looks old. Quite pretty, though. Fascinating design on it.",
+  "Ah... I don't know. Maybe? Um, I'll be honest I didn't really notice. It was quite --",
+  "Um... ah no, ah, sorry, no, I don't know."
+ ],
+ "NOISE": [
+  "[CLICK]",
+  "[DOOR OPENS]",
+  "[SOUND OF PACKAGE BEING RETRIEVED AND OPENED]",
+  "[CLICK]"
+ ]
+}

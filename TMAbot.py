@@ -7,11 +7,11 @@ from random import randint
 from src.get_phrase import get_phrase
 
 MIN_WAIT = 5  # min
-MAX_WAIT = 60 # min
+MAX_WAIT = 20 # min
 
 with open('keys.json', 'r') as f:
     consumer_key, consumer_secret, access_token, access_token_secret, bearer_token = json.load(f).values()
-    
+
 client = tweepy.Client( bearer_token=bearer_token, 
                         consumer_key=consumer_key, 
                         consumer_secret=consumer_secret, 
@@ -21,4 +21,8 @@ client = tweepy.Client( bearer_token=bearer_token,
 
 while True:
     sleep(randint(MIN_WAIT, MAX_WAIT) * 60)
-    client.create_tweet(text=get_phrase())
+    phrase = get_phrase()
+    print("Posting: {}".format(phrase))
+    client.create_tweet(text=phrase)
+    sleep(randint(5, 10))
+    # ANSWER WITH THE TITLE OF THE SPOOK

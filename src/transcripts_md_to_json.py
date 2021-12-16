@@ -12,6 +12,42 @@ import re
 import json
 from os import listdir
 
+# Function taken from https://www.py4u.net/discuss/10738 to split a paragraph into sentences
+
+alphabets= "([A-Za-z])"
+prefixes = "(Mr|St|Mrs|Ms|Dr)[.]"
+suffixes = "(Inc|Ltd|Jr|Sr|Co)"
+starters = "(Mr|Mrs|Ms|Dr|He\s|She\s|It\s|They\s|Their\s|Our\s|We\s|But\s|However\s|That\s|This\s|Wherever)"
+acronyms = "([A-Z][.][A-Z][.](?:[A-Z][.])?)"
+websites = "[.](com|net|org|io|gov)"
+
+def split_into_sentences(text):
+    text = " " + text + "  "
+    text = text.replace("\n"," ")
+    text = re.sub(prefixes,"\\1<prd>",text)
+    text = re.sub(websites,"<prd>\\1",text)
+    if "Ph.D" in text: text = text.replace("Ph.D.","Ph<prd>D<prd>")
+    text = re.sub("\s" + alphabets + "[.] "," \\1<prd> ",text)
+    text = re.sub(acronyms+" "+starters,"\\1<stop> \\2",text)
+    text = re.sub(alphabets + "[.]" + alphabets + "[.]" + alphabets + "[.]","\\1<prd>\\2<prd>\\3<prd>",text)
+    text = re.sub(alphabets + "[.]" + alphabets + "[.]","\\1<prd>\\2<prd>",text)
+    text = re.sub(" "+suffixes+"[.] "+starters," \\1<stop> \\2",text)
+    text = re.sub(" "+suffixes+"[.]"," \\1<prd>",text)
+    text = re.sub(" " + alphabets + "[.]"," \\1<prd>",text)
+    if "”" in text: text = text.replace(".”","”.")
+    if "\"" in text: text = text.replace(".\"","\".")
+    if "!" in text: text = text.replace("!\"","\"!")
+    if "?" in text: text = text.replace("?\"","\"?")
+    text = text.replace(".",".<stop>")
+    text = text.replace("?","?<stop>")
+    text = text.replace("!","!<stop>")
+    text = text.replace("<prd>",".")
+    sentences = text.split("<stop>")
+    sentences = sentences[:-1]
+    sentences = [s.strip() for s in sentences]
+    return sentences
+
+
 DIRECTORY = './_posts'
 FILE_NAMES = listdir(DIRECTORY)
 
@@ -34,7 +70,6 @@ for episode in FILE_NAMES:
         dict_by_speakers = {s:[] for s in speakers} # repeating speakers are not a problem
         dict_by_speakers["NOISE"] = []
         
-        
         speaker = "NOISE"
         for paragraph in paragraphs_filtered:
             if paragraph[:5] == "#### ":
@@ -45,11 +80,10 @@ for episode in FILE_NAMES:
                 continue
             else:
                 # We split the paragraphs into sentences and append them to the latest speaker
-                sentences = paragraph.split(r'(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s') # This has a bug for Mr., Ms., Dr., etc.
+                sentences = split_into_sentences(paragraph)
                 for s in sentences:
                     if s != '' and len(s) < 250 and len(s.split(' ')) > 2:
                         dict_by_speakers[speaker].append(s.strip())
-                        print(s)
         
         dict_by_speakers = {speaker: sentences for speaker, sentences in dict_by_speakers.items() if sentences} # Eliminate empty lists
         

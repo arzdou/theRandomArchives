@@ -51,5 +51,7 @@ for episode in FILE_NAMES:
                         dict_by_speakers[speaker].append(s.strip())
                         print(s)
         
+        dict_by_speakers = {speaker: sentences for speaker, sentences in dict_by_speakers.items() if sentences} # Eliminate empty lists
+        
         with open('./_jsons/{}.json'.format(episode[-6:-3]), 'w') as json_file:
             json.dump(dict_by_speakers, json_file, indent=1)

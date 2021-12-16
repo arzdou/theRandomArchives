@@ -1,24 +1,24 @@
-'''
-For now the main file just creates the text of the tweet
-'''
-
 import json
-from random import randint, choice
+from typing import Text
+import tweepy
 
-DIRECTORY = './_jsons'
+from time import sleep
+from random import randint
+from src.get_phrase import get_phrase
 
-episode_number = randint(1, 200)
-file_name = '{}.json'.format(episode_number)
-file_name = (8-len(file_name))*'0' + file_name   # This ensures that the leading 0s are always correct
+MIN_WAIT = 5  # min
+MAX_WAIT = 60 # min
 
-with open('{}/{}'.format(DIRECTORY, file_name)) as f:
-    statement = json.load(f)
+with open('keys.json', 'r') as f:
+    consumer_key, consumer_secret, access_token, access_token_secret, bearer_token = json.load(f).values()
     
-speaker = choice(list(statement.keys()))
-phrase = choice(statement[speaker])
-if speaker == "NOISE":
-    text = phrase
-else:
-    text = '{}: {}'.format(speaker, phrase)
+client = tweepy.Client( bearer_token=bearer_token, 
+                        consumer_key=consumer_key, 
+                        consumer_secret=consumer_secret, 
+                        access_token=access_token, 
+                        access_token_secret=access_token_secret,
+                        wait_on_rate_limit=True)
 
-print(text)
+while True:
+    sleep(randint(MIN_WAIT, MAX_WAIT) * 60)
+    client.create_tweet(text=get_phrase())
